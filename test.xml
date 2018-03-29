@@ -1,0 +1,19 @@
+<person>
+	<name>John</name>
+	<age>12</age>
+	<cars>Ford</cars>
+	<cars>BMW</cars>
+	<cars>Fiat</cars>
+</person>
+<person>
+	<name>Anna</name>
+	<age>21</age>
+	<cars>Mini</cars>
+</person>
+<person>
+	<name>Peter</name>
+	<age>100</age>
+	<cars>Toyota</cars>
+	<cars>Nissan</cars>
+</person>
+	

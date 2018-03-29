@@ -1,0 +1,28 @@
+{
+  "person":[
+    {
+      "name":"John",
+      "age":12,
+      "cars":[
+        "Ford",
+        "BMW",
+        "Fiat"
+      ]
+    },
+    {
+      "name":"Anna",
+      "age":21,
+      "cars":[
+        "Mini"
+      ]
+    },
+    {
+      "name":"Peter",
+      "age":100,
+      "cars":[
+        "Toyota",
+        "Nissan"
+      ]
+    }
+  ]
+}
