@@ -1,1 +1,3 @@
-A placeholder for files.
+# Resources
+
+A placeholder for files and images for my projects.
